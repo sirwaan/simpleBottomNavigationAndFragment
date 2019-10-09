@@ -1,10 +1,11 @@
-package com.sirwansoft.exbuttonnavandfragments;
+package com.sirwansoft.exbuttonnavandfragments.activitys;
 
 
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.os.Bundle;
 
+import com.sirwansoft.exbuttonnavandfragments.R;
 
 
 public class MainActivity extends AppCompatActivity {
