@@ -12,3 +12,4 @@ https://youtu.be/JxGHUEz89AM
 <p style="text-align: center;"><a href="https://yadamde.com">آموزش برنامه نویسی اندروید</a></p>
 <p style="text-align: center;"></p>
 <p style="text-align: center;"></p>
+    implementation 'com.google.android.material:material:1.0.0'
